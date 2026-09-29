@@ -1,2 +1,2 @@
-name Захарченко Богдан
-group БИВТ 26-6-3
+![Имя](https://img.shields.io/badge/Имя-Захарченко_Богдан-3B82F6?style=flat-square)
+![Группа](https://img.shields.io/badge/Группа-БИВТ_26--6--3-8B5CF6?style=flat-square)
