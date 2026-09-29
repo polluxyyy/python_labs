@@ -1,2 +1,2 @@
-![Имя](https://img.shields.io/badge/Имя-Захарченко_Богдан-3B82F6?style=flat-square)
-![Группа](https://img.shields.io/badge/Группа-БИВТ_26--6--3-8B5CF6?style=flat-square)
+![name](https://img.shields.io/badge/Имя-Захарченко_Богдан-3B82F6?style=flat-square)\n
+![group](https://img.shields.io/badge/Группа-БИВТ_26--6--3-8B5CF6?style=flat-square)
