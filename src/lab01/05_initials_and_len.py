@@ -1,0 +1,5 @@
+parts = input("ФИО: ").split()
+full_name = " ".join(parts)
+initials = "".join(part[0] for part in parts).upper()
+print(f"Инициалы: {initials}.")
+print(f"Длина (символов): {len(full_name)}")
