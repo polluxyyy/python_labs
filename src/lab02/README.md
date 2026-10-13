@@ -25,23 +25,23 @@ def min_max(nums: list[float | int]) -> tuple[float | int, float | int]:
     return(min,max)
 ```
 
-![1.1](1.1.1.png)
+![1.1](../../images/lab02/1.1.1.png)
 
 *min_max — пример 1.*
 
-![1.2](1.1.2.png)
+![1.2](../../images/lab02/1.1.2.png)
 
 *min_max — пример 2.*
 
-![1.3](1.1.3.png)
+![1.3](../../images/lab02/1.1.3.png)
 
 *min_max — пример 3.*
 
-![1.4](1.1.4.png)
+![1.4](../../images/lab02/1.1.4.png)
 
 *min_max — пример 4.*
 
-![1.5](1.1.5.png)
+![1.5](../../images/lab02/1.1.5.png)
 
 *min_max — пример 5.*
 
@@ -64,19 +64,19 @@ def unique_sorted(nums: list[float | int]) -> list[float | int]:
     return result
 ```
 
-![1](1.2.1.png)
+![1](../../images/lab02/1.2.1.png)
 
 *unique_sorted — пример 1.*
 
-![2](1.2.2.png)
+![2](../../images/lab02/1.2.2.png)
 
 *unique_sorted — пример 2.*
 
-![3](1.2.3.png)
+![3](../../images/lab02/1.2.3.png)
 
 *unique_sorted — пример 3.*
 
-![4](1.2.4.png)
+![4](../../images/lab02/1.2.4.png)
 
 *unique_sorted — пример 4.*
 
@@ -96,19 +96,19 @@ def flatten(mat: list[list | tuple]) -> list:
     return result
 ```
 
-![1](1.3.1.png)
+![1](../../images/lab02/1.3.1.png)
 
 *flatten — пример 1.*
 
-![2](1.3.2.png)
+![2](../../images/lab02/1.3.2.png)
 
 *flatten — пример 2.*
 
-![3](1.3.3.png)
+![3](../../images/lab02/1.3.3.png)
 
 *flatten — пример 3.*
 
-![4](1.3.4.png)
+![4](../../images/lab02/1.3.4.png)
 
 *flatten — пример 4.*
 
@@ -163,23 +163,23 @@ def transpoce(mat: list[list[float | int]]) -> list[list]:
     return result
 ```
 
-![1](2.1.1.png)
+![1](../../images/lab02/2.1.1.png)
 
 *transpoce — пример 1.*
 
-![2](2.1.2.png)
+![2](../../images/lab02/2.1.2.png)
 
 *transpoce — пример 2.*
 
-![3](2.1.3.png)
+![3](../../images/lab02/2.1.3.png)
 
 *transpoce — пример 3.*
 
-![4](2.1.4.png)
+![4](../../images/lab02/2.1.4.png)
 
 *transpoce — пример 4.*
 
-![5](2.1.5.png)
+![5](../../images/lab02/2.1.5.png)
 
 *transpoce — пример 5.*
 
@@ -198,19 +198,19 @@ def row_sums(mat: list[list[float | int]]) -> list[float]:
     return result
 ```
 
-![1](2.2.1.png)
+![1](../../images/lab02/2.2.1.png)
 
 *row_sums — пример 1.*
 
-![2](2.2.2.png)
+![2](../../images/lab02/2.2.2.png)
 
 *row_sums — пример 2.*
 
-![3](2.2.3.png)
+![3](../../images/lab02/2.2.3.png)
 
 *row_sums — пример 3.*
 
-![4](2.2.4.png)
+![4](../../images/lab02/2.2.4.png)
 
 *row_sums — пример 4.*
 
@@ -225,19 +225,19 @@ def col_sums(mat: list[list[float | int]]) -> list[float]:
     return row_sums(transpoce(mat))
 ```
 
-![1](2.3.1.png)
+![1](../../images/lab02/2.3.1.png)
 
 *stolb_sums — пример 1.*
 
-![2](2.3.2.png)
+![2](../../images/lab02/2.3.2.png)
 
 *stolb_sums — пример 2.*
 
-![3](2.3.3.png)
+![3](../../images/lab02/2.3.3.png)
 
 *stolb_sums — пример 3.*
 
-![4](2.3.4.png)
+![4](../../images/lab02/2.3.4.png)
 
 *stolb_sums — пример 4.*
 
@@ -306,31 +306,31 @@ if __name__=="__main__":
     print(format_record(("  сидорова  анна   сергеевна ", "ABB-01", 3.999)))
 ```
 
-![1](3.3.1.png)
+![1](../../images/lab02/3.3.1.png)
 
 *format_record — пример 1.*
 
-![2](3.3.2.png)
+![2](../../images/lab02/3.3.2.png)
 
 *format_record — пример 2.*
 
-![3](3.3.3.png)
+![3](../../images/lab02/3.3.3.png)
 
 *format_record — пример 3.*
 
-![4](3.3.4.png)
+![4](../../images/lab02/3.3.4.png)
 
 *format_record — пример 4.*
 
-![5](3.3.5.png)
+![5](../../images/lab02/3.3.5.png)
 
 *format_record — пример 5.*
 
-![6](3.3.6.png)
+![6](../../images/lab02/3.3.6.png)
 
 *format_record — пример 6.*
 
-![7](3.3.7.png)
+![7](../../images/lab02/3.3.7.png)
 
 *format_record — пример 7.*
 
