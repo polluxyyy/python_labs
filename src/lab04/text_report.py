@@ -9,7 +9,7 @@ from lab04.io_txt_csv import read_text, write_csv
 
 
 def main() -> None:
-    """Читает текстовый файл и сохраняет частоты всех слов в CSV."""
+    """читает текст файл и сохран част всех слов в csv"""
     parser = argparse.ArgumentParser()
     parser.add_argument("--in", dest="input_path", default="data/input.txt")
     parser.add_argument("--out", default="data/report.csv")
